@@ -2,11 +2,8 @@
 <search>
   <entry>
     <title><![CDATA[PowerMock问题]]></title>
-    <url>%2F2018%2F09%2F29%2Fpost%2F</url>
+    <url>%2F2018%2F09%2F29%2FPowerMock%E9%97%AE%E9%A2%98%2F</url>
     <content type="text"><![CDATA[写测试类的时候，PowerMock今天方法的时候，遇到包的问题（试写，后期待更新）]]></content>
-      <tags>
-        <tag>maven</tag>
-      </tags>
   </entry>
   <entry>
     <title><![CDATA[Hello World]]></title>
